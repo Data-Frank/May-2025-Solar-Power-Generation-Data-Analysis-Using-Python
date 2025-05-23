@@ -8,3 +8,5 @@ In this research the following questions were answered:
 **Can we predict the power generation for next couple of days?    
 Can we identify the need for panel cleaning/maintenance?  
 Can we identify faulty or suboptimally performing equipment?**  
+
+The full analysis can be found [here](https://github.com/Data-Frank/Solar-Power-Generation-Data-Analysis-Using-Python/blob/main/Jupyter_Notebook.ipynb).
